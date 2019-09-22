@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using DAO;
 
 namespace QLBanHang
 {
@@ -15,6 +16,7 @@ namespace QLBanHang
         private void Form1_Load(object sender, EventArgs e)
         {
             timer1.Start();
+            dataGridView1.DataSource = HoaDonDAO.GetAllHoaDon();
         }
 
         private void Timer1_Tick(object sender, EventArgs e)

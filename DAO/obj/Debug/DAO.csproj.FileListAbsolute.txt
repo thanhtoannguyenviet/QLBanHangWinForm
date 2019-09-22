@@ -1,0 +1,6 @@
+C:\Users\Shio\source\repos\QLBanHang\DAO\bin\Debug\DAO.dll
+C:\Users\Shio\source\repos\QLBanHang\DAO\bin\Debug\DAO.pdb
+C:\Users\Shio\source\repos\QLBanHang\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Shio\source\repos\QLBanHang\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Shio\source\repos\QLBanHang\DAO\obj\Debug\DAO.dll
+C:\Users\Shio\source\repos\QLBanHang\DAO\obj\Debug\DAO.pdb

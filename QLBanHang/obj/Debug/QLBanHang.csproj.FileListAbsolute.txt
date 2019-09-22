@@ -32,3 +32,7 @@ C:\Users\Shio\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCo
 C:\Users\Shio\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CopyComplete
 C:\Users\Shio\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
 C:\Users\Shio\source\repos\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\Shio\source\repos\QLBanHang\QLBanHang\bin\Debug\DAO.dll
+C:\Users\Shio\source\repos\QLBanHang\QLBanHang\bin\Debug\DTO.dll
+C:\Users\Shio\source\repos\QLBanHang\QLBanHang\bin\Debug\DAO.pdb
+C:\Users\Shio\source\repos\QLBanHang\QLBanHang\bin\Debug\DTO.pdb

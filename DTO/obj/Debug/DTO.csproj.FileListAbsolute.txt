@@ -1,0 +1,6 @@
+C:\Users\Shio\source\repos\QLBanHang\DTO\bin\Debug\DTO.dll
+C:\Users\Shio\source\repos\QLBanHang\DTO\bin\Debug\DTO.pdb
+C:\Users\Shio\source\repos\QLBanHang\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Shio\source\repos\QLBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Shio\source\repos\QLBanHang\DTO\obj\Debug\DTO.dll
+C:\Users\Shio\source\repos\QLBanHang\DTO\obj\Debug\DTO.pdb
